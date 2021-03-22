@@ -1,5 +1,5 @@
 Italian History Quiz App
-This app it is a sample of a quiz about italian history
+this app it is a sample of a quiz about italian history
 
 Pre-requisites
 Android SDK v24
