@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Style for a Header TextView  -->
+    <style name="HeaderTextStyle">
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:textColor">@color/blue_text</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/layout_text_dimension</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+</resources>

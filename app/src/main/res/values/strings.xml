@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title of the App [CHAR LIMIT=12] -->
+    <string name="app_name">Italian History Quiz</string>
+    <!-- Header text to request the name  [CHAR LIMIT=20] -->
+    <string name="name_insert">Insert your name</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name_string">Name</string>
+    <!-- First question with the first radio group [CHAR LIMIT=NONE] -->
+    <string name="first_quest">Dante was a famous italian:</string>
+    <!-- Radio Button first answer [CHAR LIMIT=NONE] -->
+    <string name="radio_first_answer">Singer</string>
+    <!-- Radio Button second answer [CHAR LIMIT=NONE] -->
+    <string name="radio_second_answer">Actor</string>
+    <!-- Radio Button third answer [CHAR LIMIT=NONE] -->
+    <string name="radio_third_answer">Writer</string>
+    <!-- Second question  with the second radio group [CHAR LIMIT=NONE] -->
+    <string name="second_quest">Who was the first emperor of Rome?</string>
+    <!-- First answer of the second question on radio button [CHAR LIMIT=NONE] -->
+    <string name="radio_fourth_answer">Julius Caesar</string>
+    <!-- Second answer of the second question on radio button [CHAR LIMIT=NONE] -->
+    <string name="radio_fifth_answer">Octavian</string>
+    <!-- Third answer of the second question on radio button [CHAR LIMIT=NONE] -->
+    <string name="radio_sixth_answer">Cassius</string>
+    <!-- Third question with the second editext [CHAR LIMIT=NONE] -->
+    <string name="third_quest">which is your favorite italian historical figure? and why?</string>
+    <!-- Hint text display in the empty field for the third question [CHAR LIMIT=100] -->
+    <string name="favorite_string">Insert here your favorite italian figure</string>
+    <!-- Fourth question with the checkbox [CHAR LIMIT=NONE] -->
+    <string name="fourth_quest">Which of these was one of the 7 kings of Rome</string>
+    <!-- First answer of the fourth question on checkbox [CHAR LIMIT=NONE] -->
+    <string name="is_romolus">Romulus</string>
+    <!-- Second answer of the fourth question on checkbox[CHAR LIMIT=NONE] -->
+    <string name="is_ancus">Ancus Marcius</string>
+    <!-- Third answer of the fourth question on checkbox [CHAR LIMIT=NONE] -->
+    <string name="is_pompeo">Pompeo</string>
+    <!-- subject for the email message-->
+    <string name="score_summary_email_subject">Italian History Quiz</string>
+    <!-- Button text for sending the quiz-->
+    <string name="submit_quiz_button_text">Send Quiz</string>
+    <!-- Initial text for score summary-->
+    <string name="greetings">Hi</string>
+    <!--  Second part of the score summary text-->
+    <string name="score_text">Your score is: </string>
+    <!-- Third part of the score summary text-->
+    <string name="thanks_text"> thank you!</string>
+    <!-- Toast message for score = 0 -->
+    <string name="try_again">Try Again!!!</string>
+</resources>

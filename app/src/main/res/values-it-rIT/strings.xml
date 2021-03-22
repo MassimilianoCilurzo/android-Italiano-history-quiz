@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Italian History Quiz</string>
+    <string name="name_insert">Inserisci il tuo nome</string>
+    <string name="name_string">Nome</string>
+    <string name="first_quest">Dante era un famoso italiano:</string>
+    <string name="radio_first_answer">Cantante</string>
+    <string name="radio_second_answer">Attore</string>
+    <string name="radio_third_answer">Scrittore</string>
+    <string name="second_quest">Chi fu il primo imperatore di Roma</string>
+    <string name="radio_fourth_answer">Gilulio Cesare</string>
+    <string name="radio_fifth_answer">Ottaviano</string>
+    <string name="radio_sixth_answer">Cassio</string>
+    <string name="third_quest">Quel\'è il tuo personaggio storico preferito</string>
+    <string name="favorite_string">Inserisci qui il tuo personaggio preferito</string>
+    <string name="fourth_quest">Quale di questi è stato uno dei 7 re di Roma</string>
+    <string name="is_romolus">Romolo</string>
+    <string name="is_ancus">Anco Marzio</string>
+    <string name="is_pompeo">Pompeo</string>
+    <string name="score_summary_email_subject">Italian History Quiz</string>
+    <string name="submit_quiz_button_text">Invia il Quiz</string>
+    <string name="greetings">Ciao </string>
+    <string name="score_text">Il tuo punteggio è: </string>
+    <string name="thanks_text">Grazie!</string>
+    <string name="try_again">Ritenta!!!</string>
+</resources>

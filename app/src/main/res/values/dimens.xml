@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- layout height dimension for the textbox -->
+    <dimen name="layout_text_dimension">48dp</dimen>
+    <!-- Text size for the textbox -->
+    <dimen name="text_size">20sp</dimen>
+</resources>
